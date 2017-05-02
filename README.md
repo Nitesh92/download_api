@@ -13,7 +13,8 @@ def deps do
 end
 ```
 #all basic codes are in library files
-#if you want to see
+
+#if you want to see this go through this
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
